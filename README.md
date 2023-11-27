@@ -24,8 +24,8 @@
 
 ## Output:
 
-### Name:Meenu.S
-### Register Number:23003303
+### Name: Meenu.S
+### Register Number: 23003303
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
