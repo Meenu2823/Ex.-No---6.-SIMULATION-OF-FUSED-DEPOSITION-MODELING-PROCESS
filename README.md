@@ -1,6 +1,6 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 27.11.23
+## DATE: 
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -25,7 +25,7 @@
 ## Output:
 
 ### Name: Meenu.S
-### Register Number: 23003303
+### Register Number: 212223230124
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
